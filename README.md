@@ -1,6 +1,6 @@
 # WikiCrawler
 
-WikiCrawler is a small application written in Python with the solely purpose of printing to screen the page title of the entered Wikipedia URL and also all the titles of all the internal links present on the original page.
+WikiCrawler is a small application written in Python with the solely purpose of printing to screen the page title of the entered Wikipedia URL and also the titles of all the internal links present on the original page. The program initially works only for PT-BR Wikipedia pages and I intend to add other Web Scraping functions other than just extracting the title text in the future.
 
 ## How to use
 
