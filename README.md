@@ -4,9 +4,9 @@ WikiCrawler is a small application written in Python with the solely purpose of 
 
 ## How to use
 
-You can simply run
-    `python wiki_crawler.py`
-But if you prefer, you can inform the URL in the command line as well and the program will skip asking for your input while running
+You can simply run <br>
+    `python wiki_crawler.py` <br>
+But if you prefer, you can inform the URL in the command line as well and the program will skip asking for your input while running <br>
     `python wiki_crawler.py [url]`
-The same can be applied if you want to inform beforehand if the application should scrape URLs of pages with languages different than the original page, that is, pages that are not in Portuguese.
+The same can be applied if you want to inform beforehand if the application should scrape URLs of pages with languages different than the original page, that is, pages that are not in Portuguese. <br>
     `python wiki_crawler.py [url] [foreign/not_foreign]`
